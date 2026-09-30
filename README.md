@@ -340,14 +340,12 @@ By using SQLHunter Pro, you agree that:
 **ATHEX BLACK HAT**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Athexblackhat2-181717?style=for-the-badge&logo=github)](https://github.com/Athexblackhat2)
-[![Twitter](https://img.shields.io/badge/Twitter-@AthexBlackHat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 *"Break it to fix it — ethically."*
 
 </div>
 
 ---
-
 <div align="center">
 
 ### ⭐ If SQLHunter Pro helped you, star the repo!
