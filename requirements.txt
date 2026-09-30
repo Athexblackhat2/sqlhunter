@@ -1,0 +1,6 @@
+# SQLHunter Pro - Python Dependencies
+# Author: ATHEX BLACK HAT
+
+requests
+PySocks
+colorama
